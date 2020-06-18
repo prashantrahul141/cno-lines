@@ -5,8 +5,8 @@ This programme will count the number of lines not in just one file, but all file
 
 # How to use?
 
-Just input the location of folder , and its done.
-example of a location - C:/Users/chief/Desktop/python/Web_Application
+Just input the location of folder , and its done.  
+Example of a location - C:/Users/chief/Desktop/python/Web_Application
 
 
 # Requirements
@@ -15,7 +15,7 @@ Python (recommanded version 3.6)
 
 # Result
 
-this is the end result-
+this is the end result -  
 ![Preview](preview.jpg)
 
 You also get to see the no of lines read-
